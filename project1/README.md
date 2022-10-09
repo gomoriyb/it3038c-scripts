@@ -77,3 +77,13 @@ Until the user chooses to exit the program, the program will always provide thes
 - To manage when user input is supposed to be a number and something else is provided: https://pynative.com/python-check-user-input-is-number-or-string/
 - To go over python's data structures and its dictionary I used: https://www.w3schools.com/python/, and https://www.w3schools.com/python/python_dictionaries.asp
 - For the markup, I used the example provided in the class and https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
+
+### Differences between the resources and my solution:
+Although I based my solution and the idea of the app on other resources, my solution is very different.
+Just to mention a few: 
+- My solution allows the user to continue additional operations on the results he/she receives from the calculations. I make use of a dictionary to enable that.
+- My code and the calculations in the app make use of decimal numbers not integers
+- I make use of recursion.
+- It provides the power operator (does not provide the modular operator)
+
+In general, I mostly looked at other resources as inspiration.
