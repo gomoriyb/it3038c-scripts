@@ -29,7 +29,7 @@ print()
 
 # 2 - POST send new user data
 new_user = {"name": "Ben G", "email": "bengg@gmail.com", "gender":"male", "status":"active"}
-headers =  {"Content-Type":"application/json", "Authorization": "Bearer <token I provided in comment>"}
+headers =  {"Content-Type":"application/json", "Authorization": "Bearer <token goes here>"}
 response2 = requests.post(url, json=new_user, headers=headers)
 print('POST')
 print('new user: ' + str(response2.json()))
