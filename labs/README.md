@@ -25,8 +25,6 @@ Navigate in your command line/terminal to the labs' folder and then enter the co
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/112343827/196057285-636e1590-e62b-405c-8418-e8f0b27c8d7e.png)
 
-### Note:
-Since the API creator requests that people do not share the access token on public websites I removed the token from the code and therefore the POST and DELETE will not work.
 
 ## Resources: 
 - https://gorest.co.in/
