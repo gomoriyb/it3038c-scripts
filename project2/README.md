@@ -7,6 +7,13 @@ For the project I created:
 - PHP backend logic needed to create a server that will return JSON.
 - Python script that will make the request and parse the returned data.
 
+### The Idea / Goal
+The PHP file runs on a local XAMPP server and the Python script requests it.</br>
+In the URL request, the script sends the user name as a URL paramter</br>
+The server PHP logic uses the username and returns JSON data </br>
+The returned JSON data then gets parsed by the python script.</br>
+Finally, the script outputs data to the console with the username.
+
 The output should look like this: <br>
 ![image](https://user-images.githubusercontent.com/112343827/198910359-0fff75b6-1123-4b62-9202-cd3407468c53.png)</br>
 
