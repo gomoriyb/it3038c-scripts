@@ -12,8 +12,8 @@ The output should look like this: <br>
 
 ## How To
 To run the projet you will need:
-- First, Download the index.php, and Project 2 script.py files from here
-- 
+- First, Copy the index.php, and Project 2 script.py files from here to your local device
+
 ### Getting XAMPP Server ready
 - Download XAMPP from https://www.apachefriends.org/download.html
 - Open the XAMPP folder</br>
