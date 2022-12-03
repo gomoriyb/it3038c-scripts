@@ -36,8 +36,9 @@ The program is meant to be played on a desktop/laptop and may have some visual l
 
 ## Relation to Class
 - I think that the complex logic of the program fits a scripting language course.
-- Hosting it on my website is also related to the server-related modules we covered.
+- Hosting it on my website is related to the server-related modules we covered in the course.
 - The code is quite complex and includes many Javascript destructors such as arrays and dictionaries.
+</br>
 Additionally, the code also makes use of materials covered in other courses such as many HTML and CSS topics.
 
 
