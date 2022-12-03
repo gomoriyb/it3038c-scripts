@@ -21,6 +21,8 @@ I am attempting also for the program to never lose.
 To make it as simple as possible to start playing against my program, I am hosting it on my website.</br>
 So all you need is an internet connection and a browser, so if you know the rules feel free to go to:</br>
 ### <ins> [Play Tic-tac-toe Now!](https://benjamingomori.com/TicTacToe.html) </ins>
+</br>
+Additionally, you can download all these files into a folder and open the TicTocToe.html file in your browser.
 
 
 ### Note
@@ -31,6 +33,13 @@ The program is meant to be played on a desktop/laptop and may have some visual l
 ![image](https://user-images.githubusercontent.com/112343827/205463286-c930d45f-03ed-45e4-9c39-a58b635bbf41.png)
 ![image](https://user-images.githubusercontent.com/112343827/205463321-114cc48e-2149-4799-86cd-2803859c1ae0.png)
 ![image](https://user-images.githubusercontent.com/112343827/205463302-edf99c95-93ee-40ed-b76a-a545d2e60d8f.png)
+
+## Relation to Class
+- I think that the complex logic of the program fits a scripting language course.
+- Hosting it on my website is also related to the server-related modules we covered.
+- The code is quite complex and includes many Javascript destructors such as arrays and dictionaries.
+Additionally, the code also makes use of materials covered in other courses such as many HTML and CSS topics.
+
 
 
 ## Resources: 
